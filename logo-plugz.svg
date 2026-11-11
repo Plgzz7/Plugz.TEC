@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title description">
+  <title id="title">Plugz.TEC</title>
+  <desc id="description">Logo Plugz.TEC com um plugue de tomada verde inclinado, dois pinos arredondados e cabo curvo sobre fundo escuro.</desc>
+  <rect width="1200" height="400" rx="28" fill="#10120f"/>
+  <g transform="translate(52 48) scale(1.05)">
+    <g transform="rotate(35 128 144)">
+      <path d="M128 184V218C128 244 148 260 174 260H194" fill="none" stroke="#baf36a" stroke-width="20" stroke-linecap="round"/>
+      <rect x="88" y="24" width="24" height="70" rx="12" fill="#baf36a"/>
+      <rect x="144" y="24" width="24" height="70" rx="12" fill="#baf36a"/>
+      <path d="M64 88Q64 80 72 80H184Q192 80 192 88V128C192 165 166 192 128 192S64 165 64 128Z" fill="#baf36a"/>
+      <path d="M91 109H165" fill="none" stroke="#10120f" stroke-width="8" stroke-linecap="round"/>
+      <path d="M111 132H145" fill="none" stroke="#10120f" stroke-width="8" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g fill="#f5f6f1">
+    <path d="M372 237V149H411C433 149 446 160 446 179S433 210 411 210H390V237ZM390 165V194H410C422 194 428 189 428 179S422 165 410 165Z"/>
+    <path d="M457 237V149H475V221H514V237Z"/>
+    <path d="M525 149H543V202C543 216 550 223 562 223S581 216 581 202V149H599V203C599 226 585 239 562 239S525 226 525 203Z"/>
+    <path d="M655 147C670 147 682 152 691 161L679 174C672 167 665 164 655 164C638 164 627 176 627 193S638 222 655 222C663 222 669 220 675 216V202H653V187H692V225C682 234 670 239 655 239C628 239 609 220 609 193S628 147 655 147Z"/>
+    <path d="M705 149H775V163L729 221H776V237H704V223L750 165H705Z"/>
+  </g>
+  <g fill="#baf36a">
+    <rect x="790" y="221" width="16" height="16" rx="3"/>
+    <path d="M817 149H893V166H864V237H846V166H817Z"/>
+    <path d="M905 149H968V165H923V184H963V200H923V221H970V237H905Z"/>
+    <path d="M1023 147C1038 147 1050 153 1059 163L1046 175C1040 168 1032 164 1023 164C1006 164 995 176 995 193S1006 222 1023 222C1032 222 1040 218 1046 211L1059 223C1050 233 1038 239 1023 239C996 239 977 220 977 193S996 147 1023 147Z"/>
+  </g>
+  <path d="M372 274H414" stroke="#baf36a" stroke-width="3"/>
+  <text x="430" y="279" fill="#a4aaa0" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3.3">IDEIAS CONECTADAS. NEGÓCIOS EM MOVIMENTO.</text>
+</svg>

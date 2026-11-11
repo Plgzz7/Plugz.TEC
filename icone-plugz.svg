@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">Símbolo Plugz.TEC</title>
+  <desc id="description">Plugue de tomada verde inclinado, com dois pinos arredondados e cabo curvo sobre fundo escuro, para avatar ou ícone da Plugz.TEC.</desc>
+  <rect width="512" height="512" rx="112" fill="#10120f"/>
+  <g transform="translate(64 42) scale(1.5)">
+    <g transform="rotate(35 128 144)">
+      <path d="M128 184V218C128 244 148 260 174 260H194" fill="none" stroke="#baf36a" stroke-width="20" stroke-linecap="round"/>
+      <rect x="88" y="24" width="24" height="70" rx="12" fill="#baf36a"/>
+      <rect x="144" y="24" width="24" height="70" rx="12" fill="#baf36a"/>
+      <path d="M64 88Q64 80 72 80H184Q192 80 192 88V128C192 165 166 192 128 192S64 165 64 128Z" fill="#baf36a"/>
+      <path d="M91 109H165" fill="none" stroke="#10120f" stroke-width="8" stroke-linecap="round"/>
+      <path d="M111 132H145" fill="none" stroke="#10120f" stroke-width="8" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>
